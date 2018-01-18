@@ -1,0 +1,7 @@
+.idea/
+SaliencyDetection
+CMakeFiles
+cmake-build-debug/
+cmake_install.cmake
+CMakeCache.txt
+Makefile
